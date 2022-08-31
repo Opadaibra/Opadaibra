@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Opadaibra
-- 👀 I’m interested in Game developing 
-- 🌱 I’m currently learning flutter
-- 💞️ I’m looking to collaborate on Develop game using Unity Game Engine 
+- 👋 Hi, I’m @obada ibrahime
+- 👀 I'm interested in software engineering.  
+- 🌱 I’m front End Developer
 - 📫 How to reach me ...opadaibra@gmail.com
 
 <!---
