@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @obada ibrahime
 - 👀 I'm interested in software engineering.  
-- 🌱 I’m Front-End & Mobile Developer
+- 🌱 Front-end developer | Angular developer | Flutter developer | Cross-Platform Development
 - 📫 How to reach me ...opadaibra@gmail.com
 
 <!---
