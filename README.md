@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @obada ibrahime
 - 👀 I'm interested in software engineering.  
-- 🌱 I’m front End Developer
+- 🌱 I’m Front-End & Mobile Developer
 - 📫 How to reach me ...opadaibra@gmail.com
 
 <!---
