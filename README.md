@@ -1,4 +1,4 @@
-<h1 align="center" style='color:green'>Hi 👋, I'm Obada Ibrahim</h1>
+<h1 align="center" style="color:'green'">Hi 👋, I'm Obada Ibrahim</h1>
 <h3 align="center">A passionate frontend developer from Syria</h3>
 
 - 🔭 I’m currently working on [Triple-l Learning language](https://triple-l.io/)
