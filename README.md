@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Obada Ibraheem</h1>
-<h3 align="center">A passionate frontend developer from Syria</h3>
+<h3 align="center">A passionate Full Stack developer from Syria</h3>
 
-- 🔭 I’m currently working on [Triple-l Learning language](https://triple-l.io/)
+- 🔭 I’m currently working on [Smart Software Services LTD](https://smartsoft-sy.net/)
 
 - 👨‍💻 All of my projects are available at [https://opadaibra.github.io/portfolio/](https://opadaibra.github.io/portfolio/)
 
-- 💬 Ask me about **Angular, React**
+- 💬 Ask me about **Laravel , Angular, React**
 
 - 📫 How to reach me **opadaibra@gmail.com**
 
